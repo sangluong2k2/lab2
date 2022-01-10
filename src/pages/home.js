@@ -5,6 +5,7 @@ import ttht from "../components/ttht";
 const HomePage = {
     render() {
         return /* html */`
+            
             <div class="banner">
                 ${Banner.render()}
             </div>
