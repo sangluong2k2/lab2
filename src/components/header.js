@@ -1,6 +1,6 @@
 const Header = {
-    render() {
-        return /* html */ `
+  render() {
+    return /* html */ `
         <div class="bg-[#191f37] py-4">
         <a href="">
           <img src="https://picsum.photos/250/100" class="mx-auto" alt="">
