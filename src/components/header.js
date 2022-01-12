@@ -9,7 +9,7 @@ const Header = {
       <div class="bg-[#ca7802]">
         <ul class="flex">
           <li><a href="/" class="block px-4 py-3 hover:bg-[#191f37] hover:text-white font-bold">Trang chủ </a></li>
-          <li><a href="/about" class="block px-4 py-3 hover:bg-[#191f37] hover:text-white font-bold">Tuyển sinh</a></li>
+          <li><a href="/news" class="block px-4 py-3 hover:bg-[#191f37] hover:text-white font-bold">Tin tức</a></li>
           <li><a href="/product" class="block px-4 py-3 hover:bg-[#191f37] hover:text-white font-bold">Chương trình đào tạo</a></li>
           <li><a href="/contact" class="block px-4 py-3 hover:bg-[#191f37] hover:text-white font-bold">Góc sinh viên</a></li>
           <li><a href="/contact" class="block px-4 py-3 hover:bg-[#191f37] hover:text-white font-bold">Tuyển dụng</a></li>
